@@ -1,0 +1,20 @@
+[
+  {"id": "q01", "question": "How do I reset my password?", "answerable": true},
+  {"id": "q02", "question": "What payment methods do you accept?", "answerable": true},
+  {"id": "q03", "question": "Can I cancel my subscription before renewal?", "answerable": true},
+  {"id": "q04", "question": "How long does a refund take to appear?", "answerable": true},
+  {"id": "q05", "question": "Where can I download my invoices?", "answerable": true},
+  {"id": "q06", "question": "How do I update my billing address?", "answerable": true},
+  {"id": "q07", "question": "Do you offer support on weekends?", "answerable": true},
+  {"id": "q08", "question": "What are the limits on the professional plan?", "answerable": true},
+  {"id": "q09", "question": "How can I invite another team member?", "answerable": true},
+  {"id": "q10", "question": "What should I do if two-factor authentication is not working?", "answerable": true},
+  {"id": "q11", "question": "Can I export my account data?", "answerable": true},
+  {"id": "q12", "question": "How do I report a security issue?", "answerable": true},
+  {"id": "q13", "question": "Does the service integrate with our CRM?", "answerable": true},
+  {"id": "q14", "question": "Can I change the email address on my account?", "answerable": true},
+  {"id": "q15", "question": "What is the support team's office address?", "answerable": false},
+  {"id": "q16", "question": "Will your product win an industry award this year?", "answerable": false},
+  {"id": "q17", "question": "What is the weather at your headquarters today?", "answerable": false},
+  {"id": "q18", "question": "Can you recommend a restaurant near me?", "answerable": false}
+]
